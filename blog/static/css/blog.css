@@ -1,0 +1,89 @@
+.page{
+  width:1000px;
+  margin:auto;
+  margin-left: 25px;
+  margin-right: 25px;
+    font-family: 'source sans Pro',Tahoma,sans-serif;
+  font-size: 16px;
+}
+.infophoto{
+  height:250px;
+  margin-top: 10px;
+  margin-left: 15px;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+color: #2215BB
+}
+.info{
+  float: left;
+}
+.photo{
+  margin-top: -250px;
+  margin-left: 400px;
+  float: right;
+}
+.section{
+  margin-bottom: 70px;
+  text-align:justify;
+}
+.sec-gauche1{
+float:left;
+margin-top: -18px;
+text-align:justify;
+font-weight:normal;
+font-size:17px;
+}
+
+h1{
+  font-size: 28px;
+  color: #3388BB;
+  border-bottom: 3px solid #3388DD;
+  margin-right: 30px;
+}
+.sec-droite1{
+    margin-top: 25px;
+  margin-left: 400px;
+    margin-right: 25px;
+
+}
+.sec-gauche2{
+  margin-top: -18px;
+  float: left;
+  font-weight: bold;
+  font-size: 20px;
+}
+.sec-droite2{
+  margin-left: 400px;
+}
+.titre{
+  font-weight: bold;
+   font-size: 20px;
+   margin-top: -30px;;
+}
+.sec-gauche3{
+  float: left;
+  font-weight: bold;
+  font-size: 10px;
+  margin-top: -60px;
+}
+.duree{
+ font-weight: bold;
+ font-style :italic;
+   font-size: 15px;
+}
+.sec-droite3{
+float: right;
+margin-left: 600px;
+margin-top: -300px;
+}
+
+.sec-gauche4{
+  margin-top: -60px;
+  float: left;
+}
+.sec-droite4{
+  font-size: 22.75px;
+  margin-left: 400px;
+  margin-top: 490px;
+}
