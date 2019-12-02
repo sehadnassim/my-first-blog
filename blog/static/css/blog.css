@@ -1,3 +1,4 @@
+
 .page{
   width:1000px;
   margin:auto;
@@ -19,9 +20,10 @@ color: #2215BB
   float: left;
 }
 .photo{
-  margin-top: -250px;
+    /*margin-top: -250px;
   margin-left: 400px;
-  float: right;
+  right: 40%;
+  border-radius: 20%;*/
 }
 .section{
   margin-bottom: 70px;
